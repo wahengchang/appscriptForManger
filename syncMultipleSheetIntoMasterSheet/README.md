@@ -1,3 +1,5 @@
+# Sync/Merging multiple sheets into one singple master sheet - Appscript
+
 The "merging multiple sheets into a master sheet" script is a Google Apps Script that automates the process of combining data from multiple sheets in a Google Sheets document into a single master sheet. This script allows users to easily combine data from multiple sources and consolidate it into a single location for easier analysis and reporting.
 
 ## To run the script
