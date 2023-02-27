@@ -4,6 +4,8 @@ This script is a Google Apps Script that automates the process of sending HTML e
 
 ![image](https://user-images.githubusercontent.com/5538753/221528017-723ec867-fd3d-4456-a248-d6bba60c51ab.png)
 
+![image](https://user-images.githubusercontent.com/5538753/221528610-1a831586-bccb-45fa-b17d-021ab68dad6a.png)
+
 
 ## To run the script
 1. adding this code in Google Sheet -> extensions -> Appscript
